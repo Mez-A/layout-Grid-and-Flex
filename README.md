@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repository](https://github.com/Mez-A/layout-Grid-and-Flex)
-- Live Site URL: [Add live site URL here](https://mez-a.github.io/layout-Grid-and-Flex/)
+- Live Site URL: [github pages](https://mez-a.github.io/layout-Grid-and-Flex/)
 ## My process
 
 ### Built with
